@@ -19,6 +19,7 @@ h2{
 }
 p{
   color: blue;
+  position: relative;
 }
 button{
   padding: 0.5rem;
