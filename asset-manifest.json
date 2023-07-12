@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/solGenerator/static/css/main.26dd162a.css",
+    "main.js": "/solGenerator/static/js/main.79f1b3e6.js",
+    "static/js/787.5c28b5f9.chunk.js": "/solGenerator/static/js/787.5c28b5f9.chunk.js",
+    "static/media/solana.png": "/solGenerator/static/media/solana.ab3f4bc731b60df413d9.png",
+    "index.html": "/solGenerator/index.html",
+    "main.26dd162a.css.map": "/solGenerator/static/css/main.26dd162a.css.map",
+    "main.79f1b3e6.js.map": "/solGenerator/static/js/main.79f1b3e6.js.map",
+    "787.5c28b5f9.chunk.js.map": "/solGenerator/static/js/787.5c28b5f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26dd162a.css",
+    "static/js/main.79f1b3e6.js"
+  ]
+}
